@@ -16,6 +16,8 @@ Supervisor de Producción en Nissan Mexicana Planta Civac
 ### Descripción
 Actualmente llevo 13 años laborando en Nissan Mexicana en el área de carrocerías, me considero una persona comprometida, leal y enfocada a los resultados, algunas de mis debilidades son: que soy muy desconfiado, poco tolerante y dificultad para expresarme hacia otras personas.
 
+Me gustaría desorralerme más en la programación de PLC´S así como Robots Indutriales de diversas marcas
+
 
 
 
