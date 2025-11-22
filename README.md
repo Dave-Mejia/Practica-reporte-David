@@ -3,8 +3,18 @@
 ## Datos personales
 ### Nombre
 David Jesús Mejía Barrios
-
-1.Hola mi nombre completo es David Jesús Mejía Barrios, actualmente tengo 38 años ya que nací el 19 de enero de 1987 en Cuernavaca, Morelos, Estudié la Licenciatura de Ingeniería Mecánica en La UAEM y soy egresado de la generación 2005-2010. Actualmente laboro en Nissan Mexicana Planta Civac como Supervisor de Producción en el área de carrocerías en Planta C2, asimismo  llevo 13 años laborando para esta empresa.
+### Edad
+38 años
+### Feha de nacimiento
+19 de enero de 1987
+### Lugar de nacimiento
+Cuernavaca, Morelos
+### Carrera
+Lic. en Ingeniería Mecánica en la Facultad de Ciencias Químicas e Ingeniería
+### Empleo
+Supervisor de Producción en Nissan Mexicana Planta Civac
+### Descripción
+Actualmente llevo 13 años laborando en Nissan Mexicana en el área de carrocerías, me considero una persona comprometida, leal y enfocada a los resultados, algunas de mis debilidades son: que soy muy desconfiado, poco tolerante y dificultad para expresarme hacia otras personas.
 
 
 
